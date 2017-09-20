@@ -1,9 +1,9 @@
 # Site settings
-title: chas688
+title: Charles Harmon
 header-img: img/home-bg.jpg
 email: chas688@gmail.com
 copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "Musings in the full stack universe."
 baseurl: ""
 url: "http://chas688.github.io"
 twitter_username: HMG_Chas
